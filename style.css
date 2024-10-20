@@ -57,7 +57,7 @@
 }
 
 body {
-  min-height: 100vh;
+  height: 100vh;
   min-width: auto;
   background-color: var(--bg-color);
   display: flex;
@@ -135,6 +135,8 @@ body {
   left: 50;
   padding-bottom: 8px;
   color: black;
+  margin: 0 8px;
+  text-align: center;
 }
 
 .footer a {
