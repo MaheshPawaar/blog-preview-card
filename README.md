@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/MaheshPawaar/blog-preview-card](https://github.com/MaheshPawaar/blog-preview-card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://maheshpawaar.github.io/blog-preview-card/](https://maheshpawaar.github.io/blog-preview-card/)
 
 ### Built with
 
